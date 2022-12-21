@@ -21,7 +21,7 @@ spec:
         app: api
     spec:
       containers:
-      - image: jar.azurecr.io/oapi:7999
+      - image: jarworkflow.azurecr.io/oapi:7999
         name: api
         imagePullPolicy: Always
         ports:
