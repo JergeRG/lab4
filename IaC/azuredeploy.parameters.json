@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "aksClusterName": {
-            "value": "AKSCluster-Demo"
+            "value": "AKSCluster-jar"
         },
         "dnsPrefix": {
             "value": "aksclusterdemo"
